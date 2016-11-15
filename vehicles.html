@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<title>Website - API</title>
+	<link rel="stylesheet" href="style.css" />
+	<link rel="icon" href="api.png" />
+	<script type="text/javascript" src="script_js/jquery-3.1.1.js"></script>
+	<script type="text/javascript" src="script_js/vehicles.js"></script>
+</head>
+
+<body>
+	<div id="top">
+		<div class="content_logo">
+			<img src="api.png">
+		</div>
+		<div class="content_title">
+			<h1>Bienvenue sur le site web référençant les API</h1>
+		</div>
+	</div>
+
+	<header>
+		<nav>
+			<div><a href="accueil.html"> Accueil</a></div>
+			<div><a href="species.html"> Races</a></div>
+			<div><a href="planet.html"> Planetes</a></div>
+			<div><a href="starships.html"> Vaisseaux</a></div>
+		</nav>
+	</header>
+
+	<main><br />
+
+		<table>
+		<caption>Liste des Véhicules :</caption>
+		<thead>
+		   <tr>
+		      <th>Nom</th>
+		      <th>Modèle</th>
+		      <th>Constructeur</th>
+		      <th>Prix</th>
+		      <th>Longueur</th>
+		      <th>Vitesse Atmosphérique maximal</th>
+		      <th>Equipage</th>
+		      <th>Passagers</th>
+		      <th>Capacité Cargaison</th>
+		      <th>Ressources</th>
+		   </tr>
+		</thead>
+		<tbody id=tbody>
+			<tr>
+		      <td id="name"></td>
+		      <td id="model"></td>
+		      <td id="manufacturer"></td>
+		      <td id="cost_in_credits"></td>
+		      <td id="length"></td>
+		      <td id="max_atmosphering_speed"></td>
+		      <td id="crew"></td>
+		      <td id="passengers"></td>
+		      <td id="cargo_capacity"></td>
+		      <td id="consumables"></td>
+		   </tr>
+		</tbody>
+		</table>
+	</main>
+</body>
+</html>
