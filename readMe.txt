@@ -13,6 +13,8 @@ Jquery
 Slack
 
 
+
+
 Répartition :
 Laure Catarino = HTML/CSS
 Nicolas Guigue = JQuery
