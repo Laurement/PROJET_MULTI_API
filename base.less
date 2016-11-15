@@ -1,0 +1,129 @@
+// out: css/styles.css, sourcemap: true, compress: true
+@base_left: left;
+@base_color_white: white;
+@base_color_black: black;
+@base_display_block: block;
+@base_display_flex: flex;
+@base_align_center: center;
+@base_none: none;
+@base_justify: justify;
+@base_flex_start: flex-start;
+@base_flex_end: flex-end;
+@base_wrap_reverse: wrap;
+@base_justify_space_around: space-around;
+@base_decoration: underline;
+
+html {
+  background-image:url("im.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+div a {
+  display: @base_display_block;
+  color: @base_color_white;
+  text-align: @base_align_center;
+  padding: 14px 16px;
+  text-decoration: @base_none;
+  float: @base_left;
+}
+
+a {
+    display: @base_display_block;
+    color: @base_color_black;
+    text-align: @base_align_center;
+    text-decoration: @base_none;
+    float: @base_left;
+}
+
+p{
+  text-align: @base_justify;
+}
+
+.responsive {
+  display: @base_display_flex;
+  justify-content: @base_justify_space_around;
+  flex-wrap: @base_wrap_reverse;
+  align-items: @base_align_center;
+}
+
+.content_logo {
+  display: @base_display_block;
+    width: 20%;
+    float: @base_left;
+}
+.content_title {
+    width: 80%;
+    float: @base_left;
+    position: relative;
+    right: -10%;
+}
+
+header {
+	float: @base_none;
+	clear: both;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#top{
+  display: @base_display_flex;
+  align-items: center;
+  flex-wrap: wrap;
+  a{
+      display: @base_display_flex;
+      justify-content: @base_flex_start;
+  }
+  h1 {
+      display: @base_display_flex;
+      justify-content: @base_align_center;
+      width: 80%;
+  }
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: @base_left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.class_a_center{
+  display: @base_display_flex;
+  justify-content: @base_justify_space_around;
+  flex-wrap: @base_wrap_reverse;
+}
+
+caption {
+  text-decoration: @base_decoration;
+}
+
+footer {
+  display: @base_display_flex;
+  align-items: @base_flex_end;
+  justify-content: @base_flex_end;
+  flex-wrap: @base_wrap_reverse;
+}
+
+.image-resize
+{
+  height: 150px;
+  width: 150px;
+  opacity: 0.5;
+}
