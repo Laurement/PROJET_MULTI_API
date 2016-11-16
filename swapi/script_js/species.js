@@ -1,6 +1,7 @@
 // au chargement de la page - affiche la premiere vague.
 $( document ).ready(function() {
     $.ajax({
+      dataType: "json",
         type: 'GET',
         url: 'http://swapi.co/api/species/',
         success: function(data) {
@@ -36,8 +37,8 @@ function suiteSpecies()
             {
                 $( "#previous" ).remove();
                 $( "#next" ).remove();
-                $("#tbody").append("<input id=\"previous\" type=\"button\" name=" + data.previous  + " value =\"Page précédente\" onclick=\"previousSpecies()\" />");
-                $("#tbody").append("<input id=\"next\" type=\"button\" name=" + data.next  + " value =\"Page suivante\" onclick=\"suiteSpecies()\" />");
+                $("#tbody").append("<input id=\"previous\" type=\"button\" name=" + data.previous  + " value =\"Page previous\" onclick=\"previousSpecies()\" />");
+                $("#tbody").append("<input id=\"next\" type=\"button\" name=" + data.next  + " value =\"Page Suivante\" onclick=\"suiteSpecies()\" />");
             }
             else
             {
@@ -93,4 +94,30 @@ function previousSpecies()
         }
       }
   );
+}
+
+function searchSpecies()
+{
+  $("td").remove();
+  var test = "http://swapi.co/api/species/?search=" + $('#fieldValue').val();
+  $.ajax(
+    {
+      type: 'GET',
+      url: 'http://swapi.co/api/species/?search=' + $('#fieldValue').val(),
+
+      success: function(data)
+      {
+        $.each(
+          data.results, function(key, value)
+            {
+                $("#tbody").append("<tr><td id=\"name\">" + value.name + "</td><td id=\"classification\">" + value.classification + "</td><td id=\"designation\">"+value.designation+"</td><td id=\"average_height\">"+value.average_height+"</td><td id=\"average_lifespan\">"+value.average_lifespan+"</td><td id=\"language\">"+value.language+"</td></tr>");
+            }
+          );
+      },
+      error: function()
+      {
+        alert('La requête de recherche n\'a pas abouti');
+      }
+    }
+  )
 }
