@@ -8,27 +8,23 @@
 	<script type="text/javascript" src="../script_js/jquery-3.1.1.js"></script>
 	<script type="text/javascript" src="script_js/starships.js"></script>
 </head>
-
-<body>
+<body class="starships_background">
 	<div id="top">
 			<a href="../api.html"><img src="../images/api.png" class="image-resize"></a>
-			<h1>Bienvenue sur le site web référençant les API</h1>
+			<h1>Listes des vaisseaux</h1>
+		<img src="../images/logo.png"class="logo-resize">
 	</div>
-
 	<header>
 		<nav>
-			<div><a href="accueil.html"> Accueil</a></div>
+			<div><a href="../api.html"> Accueil</a></div>
 			<div><a href="planet.html"> Planetes</a></div>
 			<div><a href="species.html"> Races </a></div>
 			<div><a href="vehicles.html"> Véhicules</a></div>
+			<div><a href="film.html"> Films</a></div>
 		</nav>
 	</header>
-
-
 	<main><br />
-
 		<table>
-		<caption>Liste des Vaisseaux :</caption>
 		<thead>
 		   <tr>
 		      <th>Nom</th>
@@ -46,26 +42,11 @@
 		      <th>MGLT</th>
 		   </tr>
 		</thead>
-		<tbody id=tbody>
-			<tr>
-		      <td id="name"></td>
-		      <td id="model"></td>
-		      <td id="manufacturer"></td>
-		      <td id="cost_in_credits"></td>
-		      <td id="length"></td>
-		      <td id="max_atmosphering_speed"></td>
-		      <td id="crew"></td>
-		      <td id="passengers"></td>
-		      <td id="cargo_capacity"></td>
-		      <td id="consumables"></td>
-		      <td id="hyperdrive_rating"></td>
-		      <td id="MGLT"></td>
-		   </tr>
-		</tbody>
+		<tbody id=tbody></tbody>
 		</table>
 	</main>
-	<footer>
-		<p> © Développé par : Alexandre, Erwin, Nicolas & Laure <p>
-	</footer>
 </body>
+<footer>
+	<p> © Développé par : Alexandre, Erwin, Nicolas & Laure </p>
+</footer>
 </html>
