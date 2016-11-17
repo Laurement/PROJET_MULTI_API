@@ -1,53 +1,38 @@
 # STAR_WARS_API_SWAPI
-Projet full javascript 
+Projet full javascript
+=====================
 
-READ ME
+### READ ME
+
+Le site internet "Wesbite API" référence des API. Sur ce site, nous pouvons retrouver pour le moment l'API Star Wars. Cette API permet de visualiser toutes les races, les planètes, les vaiseaux, les véhicules et les films des Star Wars. De plus, ce site permet de visualiser les films et les trailers de Star Wars.
+
+Le site est "responsive" et utilise "localStorage".
+
 
 Thème API :
-Comics database / Star Wars
+Star Wars & Comics Database
 
-Technologies utilisées :
-HTML 5
-CSS 3
-Jquery
-Slack
-
-
+## Technologies utilisées :
+  - HTML 5
+  - CSS 3
+  - Jquery
+  - Slack
 
 
-Répartition :
-Laure Catarino = HTML/CSS
-Nicolas Guigue = JQuery
-Erwin Charles Dufant = JQuery 
-Alexandre Gillet = HTML/CSS
+## Répartition des tâches :
+  - Laure Catarino = HTML/CSS
+  - Nicolas Guigue = JQuery
+  - Erwin Charles Dufant = JQuery
+  - Alexandre Gillet = HTML/CSS
 
 
-Départ :
-Le dossier du site est composé de :
-accueil.html
-api.html
-style.css
-planet.html
-script.js
-planet.js.js
-jquery-3.1.1.js
+## Description
+La page d'accueil permet de récapituler tous ce qu'on peut trouver sur ce site internet.
+En cliquant sur le logo "API", nous tombons sur une page qui liste toutes les API disponibles sur notre site internet.
+
+En fonction de chaque API, le background est différent.
 
 
-Fait :
-Page d'accueil
-Page d'api fait et prêt a accueillir les api concernés.
-
-Retouche :
-Passage de 3 api à 1 api pour le moment.
-
-Option :
-Responsive en cour.
-Ajout d'une image de fond.
-Favicon mis.
-
-Problèmes :
-Laure/Alex : Responsive image qui bloque le bon fonctionnement du responsive → résolu
-Nico/Erwin : Foreach Jquery.
 
 Contact GitHub API Training Shop Blog About
 © 2016 GitHub, Inc. Terms Privacy Security Status Help

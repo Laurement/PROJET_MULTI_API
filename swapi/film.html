@@ -3,52 +3,46 @@
 <head>
 	<meta charset="utf-8">
 	<title>Website - API</title>
-	<link rel="stylesheet" href="../script_css/css/styles.css" />
 	<a href="api.html"><link rel="icon" href="../images/api.png" /> </a>
 	<script type="text/javascript" src="../script_js/jquery-3.1.1.js"></script>
-	<script type="text/javascript" src="script_js/starships.js"></script>
+	<link rel="stylesheet" href="../librairies/fancybox/jquery.fancybox.css" />
+	<script type="text/javascript" src="../librairies/fancybox/jquery.fancybox.pack.js"></script>
+	<script type="text/javascript" src="script_js/film.js"></script>
+	<link rel="stylesheet" href="../script_css/css/styles.css" />
 </head>
 <body class="background_star_wars">
 	<div id="top">
 			<a href="../api.html"><img src="../images/api.png" class="image-resize"></a>
-			<h1>Listes des vaisseaux</h1>
-		<img src="../images/logo.png"class="logo-resize">
+			<h1>Listes des films</h1>
+			<img src="../images/logo.png"class="logo-resize">
 	</div>
 	<header>
 		<nav>
 			<div><a href="../index.html"> Accueil</a></div>
 			<div><a href="species.html"> Races</a></div>
 			<div><a href="planet.html" > Planètes</a></div>
-			<div><a href="starships.html" style="font-weight: bold; text-decoration: underline; "> Vaisseaux</a></div>
+			<div><a href="starships.html"> Vaisseaux</a></div>
 			<div><a href="vehicles.html"> Véhicules</a></div>
-			<div><a href="film.html"> Films</a></div>
+			<div><a href="film.html"style="font-weight: bold; text-decoration: underline; "> Films</a></div>
 		</nav>
 	</header>
-	<main><br />
+	<main><br/>
 		<div style="overflow-x: auto;">
-
 		<table>
-		<thead>
-		   <tr>
-		      <th>Nom</th>
-		      <th>Modèle</th>
-		      <th>Constructeur</th>
-		      <th>Prix</th>
-		      <th>Longueur</th>
-		      <th>Vitesse maximale</th>
-		      <th>Nombre Equipages</th>
-		      <th>Passagers</th>
-		      <th>Capacité</th>
-		      <th>Consommables</th>
-		      <th>Ressources</th>
-		      <th>Ratio Vitesse Lumière</th>
-		      <th>MGLT</th>
-		   </tr>
-		</thead>
-		<tbody id=tbody></tbody>
-		</table>
+    <thead>
+       <tr>
+          <th>Titre</th>
+          <th>Numéro de l'épisode</th>
+          <th>Réalisateur</th>
+          <th>Producteur</th>
+          <th>Date de réalisation</th>
+					<th>Accès trailer</th>
+					<th>Accès film</th>
+       </tr>
+    </thead>
+    <tbody id=tbody></tbody>
+    </table>
 	</div>
-		<span id="btnNavigation"></span>
 	</main>
 	<noscript> Veuillez activer le JavaScript afin de visualiser les données!</noscript>
 </body>

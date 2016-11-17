@@ -1,0 +1,73 @@
+{
+	"results": [
+    {
+			"title": "The Phantom Menace",
+			"episode_id": 1,
+			"director": "George Lucas",
+			"producer": "Rick McCallum",
+			"release_date": "1999-05-19",
+			"film_access": "http://coo5shaine.com/embed-0yk21jyz9941-_-L3hlVFdaelIzRTBkYk54SVB1bWNONS9zdWt4eURWTXp5bm1KUzBZKzl1SkZZZmhKNUdLdTNVNWV3NDJKd2xIN0FoVGZNYnBON3A2OAo2WGJqNGIwYkpEWktFRnlBckVERWh1d2U3Sm89Cg==.html?694479959",
+			"trailer": "https://www.youtube.com/embed/bD7bpG-zDJQ"
+		},
+
+    {
+			"title": "Attack of the Clones",
+			"episode_id": 2,
+			"director": "George Lucas",
+			"producer": "Rick McCallum",
+			"release_date": "2002-05-16",
+			"film_access": "http://coo5shaine.com/embed-6akodi20kyod-_-L3hlVFdaelIzRWtGY0lCUkl2U2NOSmZ0K1YwMUZCTjYxWHlBWFFaajh1dEhjLzhWb0RmZ2hXaHdnSnEvbFRLK2ZDRFNTclZEeXJDRwoyeS9PNVlVZkhBSlZhd0xXNWtmTAo=.html?280846142",
+			"trailer": "https://www.youtube.com/embed/LI-5AstaWR8"
+		},
+
+    {
+			"title": "Revenge of the Sith",
+			"episode_id": 3,
+			"director": "George Lucas",
+			"producer": "Rick McCallum",
+			"release_date": "2005-05-19",
+			"film_access": "http://coo5shaine.com/embed-9a9lzjniizjs-_-L3hlVFdaelIzRWtGY0lCUkl2U2NOSmZ0K1YwMUZCTjYwR0dGU2tRNjQvRkVZZXBZLzJMczNGc2FnOHlGMHhFPQo=.html?828250300",
+			"trailer": "https://www.youtube.com/embed/ZV5LqPzoQAs"
+		},
+
+		{
+			"title": "A New Hope",
+			"episode_id": 4,
+			"director": "George Lucas",
+			"producer": "Gary Kurtz, Rick McCallum",
+			"release_date": "1977-05-25",
+			"film_access": "http://coo5shaine.com/embed-vs0mqd1naslp-_-L3hlVFdaelIzRWtGY0lCUkl2U2NOSmZ0K1YwMUZCTjYxWHlBWFFaajh1dEhjLzhWb0RmZ2hXbGMwOU81eWkyemZCVFNUN1Z3MHJDSgo0aXZTNHVJRGZRaEZid0hXNWtmTAo=.html?941182409",
+			"trailer": "https://www.youtube.com/embed/RU79y2j2Y2Q"
+		},
+
+    {
+			"title": "The Empire Strikes Back",
+			"episode_id": 5,
+			"director": "Irvin Kershner",
+			"producer": "Gary Kutz, Rick McCallum",
+			"release_date": "1980-05-17",
+			"film_access": "http://coo5shaine.com/embed-alh4flwqda96-_-L3hlVFdaelIzRWtGY0lCUkl2U2NOSmZ0K1YwMUZCTjYwR0dGU2tRNjQvRkVZZXBZLzJMczNGc2FoY3lGMHhFPQo=.html?598935111",
+			"trailer": "https://www.youtube.com/embed/4mwC3G3iaH0"
+		},
+
+		{
+			"title": "Return of the Jedi",
+			"episode_id": 6,
+			"director": "Richard Marquand",
+			"producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+			"release_date": "1983-05-25",
+			"film_access": "http://coo5shaine.com/embed-5eg6h0m7rkw6-_-L3hlVFdaelIzRWtGY0lCUkl2U2NOSmZ0K1YwMUZCTjYxWHlBWFFaajh1dEhjLzhWb0RmZ2hXaHd5SW03bFRhNFlTRHNmWm9hMG8rSgo1ei9Xem9VREhnOUNUU1RvNWtmTAo=.html?685347758",
+			"trailer": "https://www.youtube.com/embed/5B-x3MWIyfc"
+		},
+
+		{
+			"title": "The Force Awakens",
+			"episode_id": 7,
+			"director": "J. J. Abrams",
+			"producer": "Kathleen Kennedy, J. J. Abrams, Bryan Burk",
+			"release_date": "2015-12-11",
+			"film_access": "http://yahmaib3ai.com/embed-no0l5n5d9r75-_-MUdUdVhUMkY4NVFDaWxETnUzVzBlV0Z2V000bVVPdWRUY1k3Qm5BK0tLN0ZjTTZaWS9CWlQxbjJmTm1XVlJSaXI5K0hFN292bEFiMwp1dW5yUVVVaFZBa1EyMExkVHd1ZlowQnBDWHBPM0paV3c2dVdCZnZLL1h4QWJ4TmhtT3l0UzNBZzhEWT0K.html?462221110",
+			"trailer": "https://www.youtube.com/embed/mH9Ygfs5avo"
+		}
+	]
+}

@@ -8,28 +8,25 @@
 	<script type="text/javascript" src="../script_js/jquery-3.1.1.js"></script>
 	<script type="text/javascript" src="script_js/vehicles.js"></script>
 </head>
-
-<body class="vehicule_background">
+<body class="background_star_wars">
 	<div id="top">
 			<a href="../api.html"><img src="../images/api.png" class="image-resize"></a>
-			<h1>Bienvenue sur le site web référençant les API</h1>
+			<h1>Listes des véhicules</h1>
+				<img src="../images/logo.png"class="logo-resize">
 	</div>
-
 	<header>
 		<nav>
-			<div><a href="accueil.html"> Accueil</a></div>
+			<div><a href="../index.html"> Accueil</a></div>
 			<div><a href="species.html"> Races</a></div>
-			<div><a href="planet.html"> Planetes</a></div>
+			<div><a href="planet.html" > Planètes</a></div>
 			<div><a href="starships.html"> Vaisseaux</a></div>
+			<div><a href="vehicles.html" style="font-weight: bold; text-decoration: underline; "> Véhicules</a></div>
 			<div><a href="film.html"> Films</a></div>
-
 		</nav>
 	</header>
-
-	<main><br />
-
+	<main><br/>
+		<div style="overflow-x: auto;">
 		<table>
-		<caption>Liste des Véhicules :</caption>
 		<thead>
 		   <tr>
 		      <th>Nom</th>
@@ -44,24 +41,14 @@
 		      <th>Ressources</th>
 		   </tr>
 		</thead>
-		<tbody id=tbody>
-			<tr>
-		      <td id="name"></td>
-		      <td id="model"></td>
-		      <td id="manufacturer"></td>
-		      <td id="cost_in_credits"></td>
-		      <td id="length"></td>
-		      <td id="max_atmosphering_speed"></td>
-		      <td id="crew"></td>
-		      <td id="passengers"></td>
-		      <td id="cargo_capacity"></td>
-		      <td id="consumables"></td>
-		   </tr>
-		</tbody>
+		<tbody id=tbody></tbody>
 		</table>
+	</div>
+		<span id="btnNavigation"></span>
 	</main>
-	<footer>
-		<p> © Développé par : Alexandre, Erwin, Nicolas & Laure <p>
-	</footer>
+	<noscript> Veuillez activer le JavaScript afin de visualiser les données!</noscript>
 </body>
+<footer>
+	<p> © Développé par : Alexandre, Erwin, Nicolas & Laure </p>
+</footer>
 </html>
