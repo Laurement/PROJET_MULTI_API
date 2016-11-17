@@ -1,0 +1,31 @@
+{
+  "COMMENT":"http://comicvine.gamespot.com/api/promos/?api_key=616c419848212c88c749dc5732598698c2468ff8&format=json",
+   "error": "OK",
+   "limit": 100,
+   "offset": 0,
+   "number_of_page_results": 16,
+   "number_of_total_results": 16,
+   "status_code": 1,
+   "results": [
+      {
+         "api_detail_url": "http://comicvine.gamespot.com/api/promo/1700-1641/",
+         "date_added": "2016-11-13 20:15:14",
+         "deck": "People often talk about best story arcs, developments, and covers. Here's the other best stuff you might have missed.",
+         "id": 1641,
+         "image": {
+            "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/5531336-0%20ww10promo.jpg",
+            "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/5531336-0%20ww10promo.jpg",
+            "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/5531336-0%20ww10promo.jpg",
+            "small_url": "http://comicvine.gamespot.com/api/image/scale_small/5531336-0%20ww10promo.jpg",
+            "super_url": "http://comicvine.gamespot.com/api/image/scale_large/5531336-0%20ww10promo.jpg",
+            "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/5531336-0%20ww10promo.jpg",
+            "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/5531336-0%20ww10promo.jpg"
+         },
+         "link": "http://comicvine.gamespot.com/articles/best-stuff-in-comics-this-week-11-14-16/1100-156191/",
+         "name": "Best Stuff in Comics This Week: 11-14-16",
+         "resource_type": "article",
+         "user": "Tony 'G-Man' Guerrero"
+      }
+   ],
+   "version": "1.0"
+}

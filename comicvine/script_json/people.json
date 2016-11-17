@@ -1,0 +1,40 @@
+{
+  "COMMENT":"http://comicvine.gamespot.com/api/people/?api_key=616c419848212c88c749dc5732598698c2468ff8&format=json",
+   "error": "OK",
+   "limit": 100,
+   "offset": 0,
+   "number_of_page_results": 100,
+   "number_of_total_results": 41751,
+   "status_code": 1,
+   "results": [
+      {
+         "aliases": null,
+         "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-1251/",
+         "birth": null,
+         "count_of_isssue_appearances": null,
+         "country": null,
+         "date_added": "2008-06-06 11:27:57",
+         "date_last_updated": "2013-06-11 12:40:32",
+         "death": null,
+         "deck": "A comic book artist currently working on Worlds' Finest.",
+         "description": "<p>Barry Kitson is a British Artist who's penciled some of biggest books for Marvel and DC. He's worked with industry's best writers and turned out some amazing art. Barry's primarily know for his <a data-ref-id=\"4050-18909\" href=\"/legion/4050-18909/\">L.E.G.I.O.N<\/a>. <a data-ref-id=\"4050-11059\" href=\"/legion-of-super-heroes/4050-11059/\">Legion of Super-Heroes<\/a>, <a data-ref-id=\"4050-5490\" href=\"/azrael/4050-5490/\">Azrael<\/a>, and <a data-ref-id=\"4050-6171\" href=\"/jla-year-one/4050-6171/\">JLA: Year One<\/a> runs for Dc Comics. At Marvel Comics, Barry's has some killer runs on <a data-ref-id=\"4050-2127\" href=\"/the-amazing-spider-man/4050-2127/\">The Amazing Spider-Man<\/a>, <a data-ref-id=\"4050-35303\" href=\"/incredible-hulks/4050-35303/\">Incredible Hulks<\/a>, and <a data-ref-id=\"4050-39453\" href=\"/ff/4050-39453/\">FF<\/a>.<\/p><p>He also did <a data-ref-id=\"4050-18911\" href=\"/the-order/4050-18911/\">The Order<\/a> with Matt Fraction.<\/p><p>Barry is he's also one of the nicest guy in the industry you will meet.<\/p>",
+         "email": null,
+         "gender": 1,
+         "hometown": null,
+         "id": 1251,
+         "image": {
+            "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/3102520-barry_kitson.jpg",
+            "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/3102520-barry_kitson.jpg",
+            "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/3102520-barry_kitson.jpg",
+            "small_url": "http://comicvine.gamespot.com/api/image/scale_small/3102520-barry_kitson.jpg",
+            "super_url": "http://comicvine.gamespot.com/api/image/scale_large/3102520-barry_kitson.jpg",
+            "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/3102520-barry_kitson.jpg",
+            "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/3102520-barry_kitson.jpg"
+         },
+         "name": "Barry Kitson",
+         "site_detail_url": "http://comicvine.gamespot.com/barry-kitson/4040-1251/",
+         "website": "http://www.barrykitson.com/"
+      }
+   ],
+   "version": "1.0"
+}

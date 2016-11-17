@@ -1,0 +1,37 @@
+{
+  "COMENT":"http://comicvine.gamespot.com/api/videos/?api_key=616c419848212c88c749dc5732598698c2468ff8&format=json",
+  "error": "OK",
+  "limit": 100,
+  "offset": 0,
+  "number_of_page_results": 100,
+  "number_of_total_results": 3095,
+  "status_code": 1,
+  "results": [
+    {
+      "api_detail_url": "http://comicvine.gamespot.com/api/video/2300-3308/",
+      "deck": "Valerian and the city of a Thousand Planets is looking to be the best scifi film of 2017. We take a deeper look into the latest trailer to see what to expect when to releases.",
+      "high_url": "http://video.gamespotcdn.com/d5/2016/11/10/ValerianTrailerBreakdown20161110_3200.mp4",
+      "low_url": "http://video.gamespotcdn.com/d5/2016/11/10/ValerianTrailerBreakdown20161110_1800.mp4",
+      "embed_player": "http://comicvine.gamespot.com/videos/embed/3308/",
+      "id": 3308,
+      "length_seconds": 134,
+      "name": "Valerian Trailer Breakdown: Fifth Element Homages, Rihanna and More",
+      "publish_date": "2016-11-10 16:32:00",
+      "site_detail_url": "http://comicvine.gamespot.com/videos/valerian-trailer-breakdown-fifth-element-homages-r/2300-3308/",
+      "url": "ValerianTrailerBreakdown20161110.mp4",
+      "image": {
+        "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/3156100-valeriantrailerbreakdown20161110_gs.jpg",
+        "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/3156100-valeriantrailerbreakdown20161110_gs.jpg",
+        "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/3156100-valeriantrailerbreakdown20161110_gs.jpg",
+        "small_url": "http://comicvine.gamespot.com/api/image/scale_small/3156100-valeriantrailerbreakdown20161110_gs.jpg",
+        "super_url": "http://comicvine.gamespot.com/api/image/scale_large/3156100-valeriantrailerbreakdown20161110_gs.jpg",
+        "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/3156100-valeriantrailerbreakdown20161110_gs.jpg",
+        "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/3156100-valeriantrailerbreakdown20161110_gs.jpg"
+      },
+      "user": "ryanerikp",
+      "video_type": "Trailer",
+      "youtube_id": null
+    }
+  ],
+  "version": "1.0"
+}

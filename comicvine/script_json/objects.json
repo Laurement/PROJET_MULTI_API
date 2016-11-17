@@ -1,0 +1,40 @@
+{
+  "COMMENT":"http://comicvine.gamespot.com/api/objects/?api_key=616c419848212c88c749dc5732598698c2468ff8&format=json";
+   "error": "OK",
+   "limit": 100,
+   "offset": 0,
+   "number_of_page_results": 100,
+   "number_of_total_results": 3464,
+   "status_code": 1,
+   "results": [
+      {
+         "aliases": "Cerebra\r\nThe Founder\r\nCerebro Prime\r\nCyberno",
+         "api_detail_url": "http://comicvine.gamespot.com/api/object/4055-15073/",
+         "count_of_issue_appearances": 385,
+         "date_added": "2008-06-06 11:27:51",
+         "date_last_updated": "2013-06-25 10:54:53",
+         "deck": "Cerebro (now known as Cerebra) is a large computer device inside the X-Mansion that acts as a conduit and magnifier for telepaths. It is used primarily as a way to locate mutants and was created by Professor Charles Xavier.",
+         "description": "<h2>History<\/h2><p>Cerebro (from the Portuguese and Spanish word for brain) has also been known as \"The Founder\", \"Cerebro Prime\", \"Cyberno\", and is currently known as \"Cerebra.\" It was first created when <a data-ref-id=\"4005-1505\" href=\"/professor-x/4005-1505/\">Professor X<\/a> needed some way to find <a data-ref-id=\"4005-1459\" href=\"/cyclops/4005-1459/\">Scott Summers<\/a>. He built a makeshift device called Cyberno and it helped him to locate Scott. Cerebro started as a simple control pannel built into Professor X's desk. Cerebro soon grew and required a special room in the <a data-ref-id=\"4020-41138\" href=\"/xavier-institute-for-higher-learning/4020-41138/\">X-Mansion<\/a>. As years past, Cerebro has since then been replaced by its \"sister\" version called Cerebra and has over the years been used to find or locate many mutants, including some of the best known <a data-ref-id=\"4060-3173\" href=\"/x-men/4060-3173/\">X-Men<\/a>. Some of them, most notably Scott \"Cyclops\" Summers, <a data-ref-id=\"4005-3552\" href=\"/jean-grey/4005-3552/\">Jean Grey<\/a>, and <a data-ref-id=\"4005-1457\" href=\"/emma-frost/4005-1457/\">Emma Frost<\/a>, have relied on the device in their roles as X-Men almost as much as Xavier has himself.<\/p><p>At one point the X-Men villain <a data-ref-id=\"4005-40568\" href=\"/bastion/4005-40568/\">Bastion<\/a> stole Cerebro from the X-Mansion and merged with it, thus creating a self-aware version. This was done so that the human-<a data-ref-id=\"4060-4296\" href=\"/sentinels/4060-4296/\">Sentinel<\/a> hybrid had a means of better hunting down and killing mutants. This version of Cerebro was eventually neutralized and destroyed by the X-Men.<\/p><p>In recent years, the depiction of Cerebro/Cerebra in the X-Men comics has undergone a change to reflect the appearance of Cerebro in the popular X-Men films.<\/p><h2>Function<\/h2><figure data-align=\"left\" data-img-src=\"http://static.comicvine.com/uploads/original/3/38880/1192299-551054_uy.jpgntitled_1_cop_super.jpg\" data-ref-id=\"1300-1192299\" data-size=\"medium\" data-embed-type=\"image\" data-ratio=\"1.0108303249097\"><a class=\"fluid-height\" style=\"padding-bottom:101.1%\" href=\"http://static.comicvine.com/uploads/original/3/38880/1192299-551054_uy.jpgntitled_1_cop_super.jpg\" data-ref-id=\"1300-1192299\"><img alt=\"Emma Frost using Cerebra\" src=\"http://static3.comicvine.com/uploads/original/3/38880/1192299-551054_uy.jpgntitled_1_cop_super.jpg\" srcset=\"http://static3.comicvine.com/uploads/original/3/38880/1192299-551054_uy.jpgntitled_1_cop_super.jpg 277w\" sizes=\"(max-width: 277px) 100vw, 277px\" data-width=\"277\"><\/a><figcaption>Emma Frost using Cerebra<\/figcaption><\/figure><p>Cerebro/Cerebra's has the ability to magnified a telepaths abilities to extreme levels. While wearing the headset a telepath can feel the heartbeat of almost every mutant in the world, which allows them to perceive and know the location of almost every mutant around the globe. Any person has the ability to use Cerebro/Cerebra but telepaths receive best results due to their telepathic nature. On several occasions, there has been mini modified versions of Cerebra, allowing anyone to use them within an unknown radius, that links to the main computer network.<\/p><p>Some mutants have shown an ability to shield or protect themselves from Cerebro, most notably <a data-ref-id=\"4005-1441\" href=\"/magneto/4005-1441/\">Magneto<\/a>. Some are able to use telepathy or another power in order to accomplish this, while others like Magneto (via his specially designed helmet) do so through technology.<\/p><h2>In Other Media<\/h2><p>Cerebro has been depicted in various X-Men adaptations in other media, from animated series to motion pictures, to video games. The following is a brief list.<\/p><p><b>Animation<\/b><\/p><ul><li>X-Men: The Animated Series<\/li><li>X-Men: Evolution<\/li><li>Wolverine and the X-Men<\/li><\/ul><p><b>X-Men Film Trilogy<\/b><\/p><ul><li>X-Men<\/li><li>X-Men United<\/li><li>X-Men: The Last Stand<\/li><\/ul><p>X-Men: First Class<\/p><p><b>Video Games<\/b><\/p><ul><li>Marvel: Ultimate Alliance<\/li><li>X-Men Legends<\/li><\/ul><figure data-align=\"right\" data-img-src=\"http://static.comicvine.com/uploads/original/0/462/96680-70200-cerebro.jpg\" data-ref-id=\"1300-96680\" data-size=\"medium\" data-embed-type=\"image\" data-ratio=\"0.60606060606061\"><a class=\"fluid-height\" style=\"padding-bottom:60.6%\" href=\"http://static.comicvine.com/uploads/original/0/462/96680-70200-cerebro.jpg\" data-ref-id=\"1300-96680\"><img alt=\"No Caption Provided\" src=\"http://static7.comicvine.com/uploads/original/0/462/96680-70200-cerebro.jpg\" srcset=\"http://static7.comicvine.com/uploads/original/0/462/96680-70200-cerebro.jpg 396w\" sizes=\"(max-width: 396px) 100vw, 396px\" data-width=\"396\"><\/a><\/figure>",
+         "first_appeared_in_issue": {
+            "api_detail_url": "http://comicvine.gamespot.com/api/first_appeared_in_issue/4000-7310/",
+            "id": 7310,
+            "name": "The Return of the Blob",
+            "issue_number": "7"
+         },
+         "id": 15073,
+         "image": {
+            "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/2664467-new_x_men_138.jpg",
+            "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/2664467-new_x_men_138.jpg",
+            "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/2664467-new_x_men_138.jpg",
+            "small_url": "http://comicvine.gamespot.com/api/image/scale_small/2664467-new_x_men_138.jpg",
+            "super_url": "http://comicvine.gamespot.com/api/image/scale_large/2664467-new_x_men_138.jpg",
+            "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/2664467-new_x_men_138.jpg",
+            "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/2664467-new_x_men_138.jpg"
+         },
+         "name": "Cerebro",
+         "site_detail_url": "http://comicvine.gamespot.com/cerebro/4055-15073/",
+         "start_year": "1964"
+      }
+   ],
+   "version": "1.0"
+}

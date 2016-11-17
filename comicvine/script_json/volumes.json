@@ -1,0 +1,51 @@
+{
+  "COMMENT":"http://comicvine.gamespot.com/api/volumes/?api_key=616c419848212c88c749dc5732598698c2468ff8&format=json",
+  "error": "OK",
+  "limit": 100,
+  "offset": 0,
+  "number_of_page_results": 100,
+  "number_of_total_results": 80264,
+  "status_code": 1,
+  "results": [
+    {
+      "aliases": null,
+      "api_detail_url": "http://comicvine.gamespot.com/api/volume/4050-766/",
+      "count_of_issues": 28,
+      "date_added": "2008-06-06 11:08:03",
+      "date_last_updated": "2010-12-11 05:35:12",
+      "deck": null,
+      "description": "<p>Running for twenty-eight issues from 1938-1942, Single Series was a series of color one-shots featuring various characters from comic strips or other areas of fiction. Although most of the issues focused on a different character, several issues featured the same character: <br/>  <br/><a data-ref-id=\"4005-9275\" href=\"/abbie/4005-9275/\" slug=\"abbie\">Abbie</a> an' <a data-ref-id=\"4005-9276\" href=\"/slats/4005-9276/\" slug=\"slats\">Slats</a>: 25, 28*<br/><a data-ref-id=\"4005-34368\" href=\"/broncho-bill/4005-34368/\" slug=\"broncho-bill\">Broncho Bill</a>: 2, 19<br/><a data-ref-id=\"4005-9274\" href=\"/ella-cinders/4005-9274/\" slug=\"ella-cinders\">Ella Cinders</a>: 3, 21, 28*<br/><a data-ref-id=\"4005-7859\" href=\"/jim-hardy/4005-7859/\" slug=\"jim-hardy\">Jim Hardy</a>: 6, 27<br/><a data-ref-id=\"4005-9279\" href=\"/lil-abner/4005-9279/\" slug=\"lil-abner\">Li'l Abner</a>: 4, 18 <br/><a data-ref-id=\"4005-33171\" href=\"/little-mary-mixup/4005-33171/\" slug=\"little-mary-mixup\">Little Mary Mixup</a>: 10, 26<br/> <br/>*Ella Cinders and Abbie an' Slats were both in the same issue, the only issue to combine two character groups, as well as the final issue.</p>",
+      "first_issue": {
+        "api_detail_url": "http://comicvine.gamespot.com/api/issue/4000-164287/",
+        "id": 164287,
+        "name": "The Captain and the Kids",
+        "issue_number": "1"
+      },
+      "id": 766,
+      "image": {
+        "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/880845-1.jpg",
+        "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/880845-1.jpg",
+        "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/880845-1.jpg",
+        "small_url": "http://comicvine.gamespot.com/api/image/scale_small/880845-1.jpg",
+        "super_url": "http://comicvine.gamespot.com/api/image/scale_large/880845-1.jpg",
+        "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/880845-1.jpg",
+        "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/880845-1.jpg"
+      },
+      "last_issue": {
+        "api_detail_url": "http://comicvine.gamespot.com/api/issue/4000-92467/",
+        "id": 92467,
+        "name": "Jim Hardy 2",
+        "issue_number": "27"
+      },
+      "name": "Single Series",
+      "publisher": {
+        "api_detail_url": "http://comicvine.gamespot.com/api/publisher/4010-5/",
+        "id": 5,
+        "name": "United Features"
+      },
+      "site_detail_url": "http://comicvine.gamespot.com/single-series/4050-766/",
+      "start_year": "1938"
+    }
+  ],
+  "version": "1.0"
+}

@@ -1,0 +1,22 @@
+{
+  "COMMENT":"http://comicvine.gamespot.com/api/powers/?api_key=616c419848212c88c749dc5732598698c2468ff8&format=json",
+   "error": "OK",
+   "limit": 100,
+   "offset": 0,
+   "number_of_page_results": 100,
+   "number_of_total_results": 130,
+   "status_code": 1,
+   "results": [
+      {
+         "aliases": null,
+         "api_detail_url": "http://comicvine.gamespot.com/api/power/4035-1/",
+         "date_added": "2008-06-06 11:28:15",
+         "date_last_updated": "2008-06-06 11:28:15",
+         "description": "<p>The ability to fly is possibly the most awesome, yet common power within the pantheon of superhero culture. Flight based characters have an immediate advantage over enemies and have arguably one of the only powers without a real counter. The capability to fly represents the freedom of the individual and his or her absolute control of their world.<\/p>",
+         "id": 1,
+         "name": "Flight",
+         "site_detail_url": "http://comicvine.gamespot.com/characters/?wikiSlug=flight&wikiTypeId=4035&wikiId=1&powers%5B%5D=1"
+      }
+   ],
+   "version": "1.0"
+}

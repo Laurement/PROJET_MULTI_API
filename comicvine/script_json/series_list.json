@@ -1,0 +1,51 @@
+{
+  "COMMENT":"http://comicvine.gamespot.com/api/series_list/?api_key=616c419848212c88c749dc5732598698c2468ff8&format=json",
+   "error": "OK",
+   "limit": 100,
+   "offset": 0,
+   "number_of_page_results": 100,
+   "number_of_total_results": 542,
+   "status_code": 1,
+   "results": [
+      {
+         "aliases": "Agents of SHIELD\r\nMarvel's Agents of S.H.I.E.L.D.",
+         "api_detail_url": "http://comicvine.gamespot.com/api/series/4075-1/",
+         "count_of_episodes": 72,
+         "date_added": "2013-09-23 14:13:53",
+         "date_last_updated": "2015-03-15 14:11:36",
+         "deck": null,
+         "description": "<p>The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division. A small team of operatives led by Agent Coulson (Clark Gregg) who must deal with the strange new world of \"superheroes\" after the \"Battle of New York\", protecting the public from new and unknown threats.<\/p>",
+         "first_episode": {
+            "api_detail_url": "http://comicvine.gamespot.com/api/episode/4070-1/",
+            "id": 1,
+            "name": "Pilot",
+            "episode_number": "101"
+         },
+         "id": 1,
+         "image": {
+            "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/3330402-agentsofshield.jpg",
+            "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/3330402-agentsofshield.jpg",
+            "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/3330402-agentsofshield.jpg",
+            "small_url": "http://comicvine.gamespot.com/api/image/scale_small/3330402-agentsofshield.jpg",
+            "super_url": "http://comicvine.gamespot.com/api/image/scale_large/3330402-agentsofshield.jpg",
+            "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/3330402-agentsofshield.jpg",
+            "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/3330402-agentsofshield.jpg"
+         },
+         "last_episode": {
+            "api_detail_url": "http://comicvine.gamespot.com/api/episode/4070-21203/",
+            "id": 21203,
+            "name": "Deals with Our Devils",
+            "episode_number": "407"
+         },
+         "name": "Agents of S.H.I.E.L.D.",
+         "publisher": {
+            "api_detail_url": "http://comicvine.gamespot.com/api/publisher/4010-31/",
+            "id": 31,
+            "name": "Marvel"
+         },
+         "site_detail_url": "http://comicvine.gamespot.com/agents-of-s-h-i-e-l-d/4075-1/",
+         "start_year": "2013-"
+      }
+   ],
+   "version": "1.0"
+}

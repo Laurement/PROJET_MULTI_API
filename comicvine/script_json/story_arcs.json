@@ -1,0 +1,46 @@
+{
+  "COMMENT":"http://comicvine.gamespot.com/api/story_arcs/?api_key=616c419848212c88c749dc5732598698c2468ff8&format=json",
+   "error": "OK",
+   "limit": 100,
+   "offset": 0,
+   "number_of_page_results": 100,
+   "number_of_total_results": 3649,
+   "status_code": 1,
+   "results": [
+      {
+         "aliases": "Kree/Shi'ar War",
+         "api_detail_url": "http://comicvine.gamespot.com/api/story_arc/4045-27758/",
+         "count_of_isssue_appearances": 0,
+         "date_added": "2008-06-06 11:27:52",
+         "date_last_updated": "2013-04-30 08:05:07",
+         "deck": "Operation: Galactic Storm was a 19 part Avengers event. It ran within Avengers, West Coast Avengers, Captain America, Thor, Quasar, Iron Man and Wonder Man comics of the time.",
+         "description": "<h2>Plot Summary<\/h2><p>As a war between the <a data-ref-id=\"4060-7588\" href=\"/kree/4060-7588/\">Kree<\/a> and <a data-ref-id=\"4060-55854\" href=\"/shiar/4060-55854/\">Shi'ar<\/a> rages, Earth becomes drawn into the conflict. The Shi'ar <a data-ref-id=\"4060-6097\" href=\"/imperial-guard/4060-6097/\">Imperial Guard<\/a> come to steal the technology left by the deceased <a data-ref-id=\"4005-1472\" href=\"/captain-marvel/4005-1472/\">Captain Marvel<\/a> while Kree agents try to secure their loose technology, getting the attention of the <a data-ref-id=\"4060-3806\" href=\"/avengers/4060-3806/\">Avengers<\/a>. Earth's Mightiest Heroes learn not only of the intergalactic war taking place but that their solar system is being used as a strategic hyperspace stop and it is severely destabilizing their sun.<\/p><p>The east coast branch of the Avengers unite with the <a data-ref-id=\"4060-29075\" href=\"/avengers-west-coast/4060-29075/\">Avengers West Coast<\/a> and divide into three teams. One team remains on Earth while the other two journey to the respective throneworlds of the Shi'ar and Kree to find some way of protecting Earth from this war. These space-bound teams are quickly embroiled in conspiracy within both alien empires. The Shi'ar team expose <a data-ref-id=\"4060-40668\" href=\"/skrulls/4060-40668/\">Skrull<\/a> infiltrators deep within the Shi'ar ruling body, and the Kree team become fugitives as the <a data-ref-id=\"4005-6096\" href=\"/supreme-intelligence/4005-6096/\">Supreme Intelligence<\/a> rises to rule the Kree once more.<\/p><p>Even with the conspiracies becoming clear, the war continues with a life of its own. The Shi'ar complete their Nega-Bomb, an unprecedented weapon of mass destruction, and the Avengers are unable to stop <a data-ref-id=\"4005-6144\" href=\"/lilandra/4005-6144/\">Lilandra<\/a> from deploying it against the Kree. Its detonation ends the war, killing millions upon millions of Kree.<\/p><p>The Avengers survive and discover the true architect of all this death is the Supreme Intelligence, who sacrificed countless lives so that the few surviving Kree would break free of their evolutionary dead end thanks to the Nega-Bomb's fallout. This leads to half of the Avengers to decide to hunt down the Supreme Intelligence in the ruins of the Kree Empire and execute him for his crimes, despite <a data-ref-id=\"4005-1442\" href=\"/captain-america/4005-1442/\">Captain America<\/a>'s strong objections.<\/p><p>The Shi'ar soon arrive to occupy the former Kree Empire, and the Avengers return to Earth.<\/p><h2>Related Items<\/h2><ul><li><a data-ref-id=\"4050-38679\" href=\"/blockbusters-of-the-marvel-universe/4050-38679/\">Blockbusters of the Marvel Universe<\/a><\/li><li><a data-ref-id=\"4000-38110\" href=\"/what-if-what-if-the-avengers-lost-operation-galactic-storm/4000-38110/\">What If? #55<\/a><\/li><li><a data-ref-id=\"4000-38268\" href=\"/what-if-what-if-avengers-lost-operation-galactic-storm/4000-38268/\">What If? #56<\/a><\/li><\/ul><h2>Non-U.S. Editions<\/h2><ul><li><a data-ref-id=\"4000-291414\" href=\"/los-vengadores-operacion-tormenta-galactica-/4000-291414/\">Los Vengadores: Operación Tormenta Galáctica #1<\/a><\/li><li><a data-ref-id=\"4000-291415\" href=\"/los-vengadores-operacion-tormenta-galactica-/4000-291415/\">Los Vengadores: Operación Tormenta Galáctica #2<\/a><\/li><li><a data-ref-id=\"4000-291416\" href=\"/los-vengadores-operacion-tormenta-galactica-/4000-291416/\">Los Vengadores: Operación Tormenta Galáctica #3<\/a><\/li><li><a data-ref-id=\"4000-315378\" href=\"/marvel-crossover-tempesta-nella-galassia-1/4000-315378/\">Marvel Crossover #1<\/a><\/li><li><a data-ref-id=\"4000-315381\" href=\"/marvel-crossover-tempesta-nella-galassia-2/4000-315381/\">Marvel Crossover #2<\/a><\/li><li><a data-ref-id=\"4000-315382\" href=\"/marvel-crossover-tempesta-nella-galassia-3/4000-315382/\">Marvel Crossover #3<\/a><\/li><li><a data-ref-id=\"4000-315383\" href=\"/marvel-crossover-tempesta-nella-galassia-4/4000-315383/\">Marvel Crossover #4<\/a><\/li><li><a data-ref-id=\"4000-315384\" href=\"/marvel-crossover-tempesta-nella-galassia-5/4000-315384/\">Marvel Crossover #5<\/a><\/li><\/ul>",
+         "first_appeared_in_issue": {
+            "api_detail_url": "http://comicvine.gamespot.com/api/first_appeared_in_issue/4000-134714/",
+            "id": 134714,
+            "name": "Decisions In A Vacuum",
+            "issue_number": "278"
+         },
+         "first_appeared_in_episode": null,
+         "id": 27758,
+         "image": {
+            "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/2028274-untitled.png",
+            "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/2028274-untitled.png",
+            "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/2028274-untitled.png",
+            "small_url": "http://comicvine.gamespot.com/api/image/scale_small/2028274-untitled.png",
+            "super_url": "http://comicvine.gamespot.com/api/image/scale_large/2028274-untitled.png",
+            "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/2028274-untitled.png",
+            "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/2028274-untitled.png"
+         },
+         "name": "Operation: Galactic Storm",
+         "publisher": {
+            "api_detail_url": "http://comicvine.gamespot.com/api/publisher/4010-31/",
+            "id": 31,
+            "name": "Marvel",
+            "site_detail_url": "http://comicvine.gamespot.com/marvel/4010-31/"
+         },
+         "site_detail_url": "http://comicvine.gamespot.com/operation-galactic-storm/4045-27758/"
+      }
+   ],
+   "version": "1.0"
+}

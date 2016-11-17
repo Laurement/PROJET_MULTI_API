@@ -1,0 +1,40 @@
+{
+  "COMENT":"http://comicvine.gamespot.com/api/locations/?api_key=616c419848212c88c749dc5732598698c2468ff8&format=json";
+   "error": "OK",
+   "limit": 100,
+   "offset": 0,
+   "number_of_page_results": 100,
+   "number_of_total_results": 7000,
+   "status_code": 1,
+   "results": [
+      {
+         "aliases": "Wildes Land",
+         "api_detail_url": "http://comicvine.gamespot.com/api/location/4020-21766/",
+         "count_of_issue_appearances": 527,
+         "date_added": "2008-06-06 11:27:50",
+         "date_last_updated": "2014-11-03 09:19:55",
+         "deck": "A tropical, prehistoric land hidden in Antarctica. It was created during the Triassic by the alien Nuwali for another alien race, The Beyonders, for observation and research purposes.",
+         "description": "<h2>Overview<\/h2><p>In <a href=\"/antarctica/4020-55940/\" data-ref-id=\"4020-55940\">Antarctica<\/a>, there were many volcanoes, where the alien race known as the <a href=\"/nuwali/4060-57873/\" data-ref-id=\"4060-57873\">Nuwali<\/a> installed devices to maintain a tropical climate. To be observed however, they would need living life forms. These living life forms were taken all over the centuries, including the <a href=\"/man-apes/4060-59923/\" data-ref-id=\"4060-59923\">Man-Apes<\/a>. Soon after, the Nuwali and their masters the <a href=\"/beyonders/4060-58806/\" data-ref-id=\"4060-58806\">Beyonders<\/a> decided to stop the experiment because of boredom. However, the devices were still running and the species living in the Savage Land continued to live.<\/p><p>Later on, a group of humans from <a href=\"/atlantis/4020-41030/\" data-ref-id=\"4020-41030\">Atlantis<\/a> discovered the Savage Land and claimed it their home. They also discovered the climate-controlling technology and used it to keep the volcanoes working. They mastered <a href=\"/genetic-alterations/4015-55878/\" data-ref-id=\"4015-55878\">genetic engineering<\/a>. They experimented on the various species living in the Savage Land, and were then forced to work for the Atlanteans until they revolted. The Atlanteans used the technology to expand the Savage Land. However, the Atlanteans were overthrown and the expanded areas in the Savage Land remained.<\/p><p>After some years, the Savage Land was discovered by a man named Lord Robert Plunder who took back <a href=\"/vibranium/4055-40919/\" data-ref-id=\"4055-40919\">a metal which could liquefy all other metals<\/a>. The discovery of this metal meant that others would want to steal his discovery, so he took his eldest son Kevin, and went back to the Savage Land. However, Lord Robert Plunder was killed by a local tribe of Man-Apes, and Kevin grew up in the Savage Land, known better as <a href=\"/ka-zar/4005-3558/\" data-ref-id=\"4005-3558\">Ka-Zar<\/a>.<\/p><h2>Alternate Realities<\/h2><h3>Age of Apocalypse<\/h3><figure data-align=\"right\" data-img-src=\"http://static.comicvine.com/uploads/original/0/5774/1737425-avalon.jpg\" data-ref-id=\"1300-1737425\" data-size=\"small\" style=\"width: 576px\" data-ratio=\"1.28125\" data-width=\"576\" data-embed-type=\"image\"><a class=\"fluid-height\" style=\"padding-bottom:128.1%\" href=\"http://static.comicvine.com/uploads/original/0/5774/1737425-avalon.jpg\" data-ref-id=\"1300-1737425\"><img alt=\"AoA Savage Land.  \" src=\"http://static9.comicvine.com/uploads/scale_small/0/5774/1737425-avalon.jpg\" srcset=\"http://static8.comicvine.com/uploads/original/0/5774/1737425-avalon.jpg 576w, http://static9.comicvine.com/uploads/scale_small/0/5774/1737425-avalon.jpg 320w\" sizes=\"(max-width: 320px) 100vw, 320px\" data-width=\"320\"><\/a><figcaption>AoA Savage Land.  <\/figcaption><\/figure><p>In this reality, <a href=\"/avalon/4020-41283/\" data-ref-id=\"4020-41283\">Avalon<\/a> was the last refuge of Humans and Mutants who wanted to escape <a href=\"/apocalypse/4005-7612/\" data-ref-id=\"4005-7612\">Apocalypse<\/a>´s tyranny. The place was a real paradise full of life where humans and mutants coexisted in peace and harmony. The place was ruled by <a href=\"/destiny/4005-3557/\" data-ref-id=\"4005-3557\">Destiny<\/a> and <a href=\"/cypher/4005-14559/\" data-ref-id=\"4005-14559\">Cypher<\/a> (her adoptive son).<\/p><p>It was located hidden at the <a href=\"/antarctica/4020-55940/\" data-ref-id=\"4020-55940\">Antarctica<\/a>, reassembled Savage Land of main reality but with different topography, this site was one of the only places in earth free from interference of Apocalypse until <a href=\"/shadow-king/4005-14889/\" data-ref-id=\"4005-14889\">Shadow King<\/a> mindcontrolled every inhabitant making them kill each other. Thus it was abandoned.<\/p><p>In order to reach the Sanctuary, people must get passage from the tribe Ghost Dance in the \"Infernal Gallop\", then <a href=\"/mystique/4005-1469/\" data-ref-id=\"4005-1469\">Mystique<\/a> ferried refugees from an Antarctic station to the shores of Avalon. Then the travelers would be conduced into Avalon by <a href=\"/juggernaut/4005-1445/\" data-ref-id=\"4005-1445\">Cain<\/a> (a massive monk).<\/p>",
+         "first_appeared_in_issue": {
+            "api_detail_url": "http://comicvine.gamespot.com/api/first_appeared_in_issue/4000-128897/",
+            "id": 128897,
+            "name": null,
+            "issue_number": "22"
+         },
+         "id": 21766,
+         "image": {
+            "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/1315497-61_klaws_of_the_panther_1.jpg",
+            "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/1315497-61_klaws_of_the_panther_1.jpg",
+            "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/1315497-61_klaws_of_the_panther_1.jpg",
+            "small_url": "http://comicvine.gamespot.com/api/image/scale_small/1315497-61_klaws_of_the_panther_1.jpg",
+            "super_url": "http://comicvine.gamespot.com/api/image/scale_large/1315497-61_klaws_of_the_panther_1.jpg",
+            "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/1315497-61_klaws_of_the_panther_1.jpg",
+            "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/1315497-61_klaws_of_the_panther_1.jpg"
+         },
+         "name": "Savage Land",
+         "site_detail_url": "http://comicvine.gamespot.com/savage-land/4020-21766/",
+         "start_year": "1941"
+      }
+   ],
+   "version": "1.0"
+}
