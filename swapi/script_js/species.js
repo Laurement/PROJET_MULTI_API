@@ -22,7 +22,7 @@ $( document ).ready(function() {
                 $("#tbody").append("<tr><td>"+ value.name +"</td><td>"+value.classification+"</td><td>"+value.designation+"</td><td>"+value.average_height+"</td><td>"+value.average_lifespan+"</td><td>"+value.language+"</td></tr>");});
 
             if(data.next != null) {
-                $("#tbody").append("<input id=\"next\" type=\"button\" name=" + data.next  + " value =\"Page Suivante\" onclick=\"suiteSpecies()\" />");
+                $("#btnNavigation").append("<input id=\"next\" type=\"button\" name=" + data.next  + " value =\"Page Suivante\" onclick=\"suiteSpecies()\" />");
                 preload(data.next);
             }},
 

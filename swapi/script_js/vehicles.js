@@ -7,7 +7,7 @@ $( document ).ready(function() {
             $.each(data.results, function(key, value){
                 $("#tbody").append("<tr><td id=\"name\">" + value.name + "</td><td id=\"model\">" + value.model + "</td><td id=\"manufacturer\">"+value.manufacturer+"</td><td id=\"cost_in_credits\">"+value.cost_in_credits+"</td><td id=\"length\">"+value.length+"</td><td id=\"max_atmosphering_speed\">"+value.max_atmosphering_speed+"</td><td id=\"crew\">"+value.crew+"</td><td id=\"passengers\">"+value.passengers+"</td><td id=\"cargo_capacity\">"+value.cargo_capacity+"</td><td id=\"consumables\">"+value.consumables+"</td></tr>");});
             if(data.next != "") {
-                $("#tbody").append("<input id=\"next\" type=\"button\" name=" + data.next  + " value =\"Page Suivante\" onclick=\"suiteVehicles()\" />");
+                $("#btnNavigation").append("<input id=\"next\" type=\"button\" name=" + data.next  + " value =\"Page Suivante\" onclick=\"suiteVehicles()\" />");
             }},
         error: function() {
             alert('La requête n\'a pas abouti - PAGE 1');

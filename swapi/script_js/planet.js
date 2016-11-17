@@ -7,7 +7,7 @@ $( document ).ready(function() {
             $.each(data.results, function(key, value){
                 $("#tbody").append("<tr><td id=\"name\">" + value.name + "</td><td id=\"rotation_period\">" + value.rotation_period + "</td><td id=\"orbital_period\">"+value.orbital_period+"</td><td id=\"diameter\">"+value.diameter+"</td><td id=\"climate\">"+value.climate+"</td><td id=\"gravity\">"+value.gravity+"</td><td id=\"terrain\">"+value.terrain+"</td><td id=\"surface_water\">"+value.surface_water+"</td><td id=\"population\">"+value.population+"</td></tr>");});
             if(data.next != "") {
-                $("#tbody").append("<input id=\"next\" type=\"button\" name=" + data.next  + " value =\"Page Suivante\" onclick=\"suitePlanets()\" />");
+                $("#btnNavigation").append("<input id=\"next\" type=\"button\" name=" + data.next  + " value =\"Page Suivante\" onclick=\"suitePlanets()\" />");
             }},
         error: function() {
             alert('La requête n\'a pas abouti - PAGE 1');
