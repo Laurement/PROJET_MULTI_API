@@ -1,6 +1,5 @@
-# STAR_WARS_API_SWAPI
+# STAR_WARS_API_SWAPI 
 Projet full javascript
-=====================
 
 ### READ ME
 
