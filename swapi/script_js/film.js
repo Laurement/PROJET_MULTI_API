@@ -5,12 +5,7 @@ $( document ).ready(function() {
     url: "script_json/films.json",
     success: function(data){
       $.each(data.results, function(key, value){
-          $("#tbody").append("<tr> <td id=\"title\">" +
-            value.title +"</td><td id=\"episode_id\">" + value.episode_id +
-          "</td><td id=\"director\">"+value.director+
-          "</td><td id=\"producer\">"+value.producer+
-          "</td><td id=\"release_date\">"+value.release_date+"</td><td><div class=\"flex\"><a class=\"stream\" href=\""+ value.trailer +"?iframe\" id=\"film_access\"> <img src=\"../images/play.png\"> </a></div></td><td><div class=\"flex\"><a class=\"stream\" href=\""+ value.film_access +"?iframe\" id=\"film_access\"> <img class=\"images_play\" src=\"../images/play.png\"></a></div></td></tr>");});
-
+          $("#tbody").append("<tr><td id=\"title\">" + value.title + "</td><td id=\"episode_id\">" + value.episode_id + "</td><td id=\"director\">"+value.director+"</td><td id=\"producer\">"+value.producer+"</td><td id=\"release_date\">"+value.release_date+"</td><td><div class=\"flex\"><a class=\"stream\" href=\""+ value.trailer +"?iframe\" id=\"film_access\"> <img src=\"../images/play.png\"> </a></div></td></tr>");});
         $("a.stream").fancybox({
         			'hideOnContentClick' : false,
         			'padding'						 : 0,
