@@ -8,7 +8,7 @@
 	<script type="text/javascript" src="../script_js/jquery-3.1.1.js"></script>
 	<script type="text/javascript" src="script_js/starships.js"></script>
 </head>
-<body class="starships_background">
+<body class="background_star_wars">
 	<div id="top">
 			<a href="../api.html"><img src="../images/api.png" class="image-resize"></a>
 			<h1>Listes des vaisseaux</h1>
@@ -16,14 +16,16 @@
 	</div>
 	<header>
 		<nav>
-			<div><a href="../api.html"> Accueil</a></div>
-			<div><a href="planet.html"> Planetes</a></div>
-			<div><a href="species.html"> Races </a></div>
+			<div><a href="../index.html"> Accueil</a></div>
+			<div><a href="species.html"> Races</a></div>
+			<div><a href="planet.html" > Planètes</a></div>
+			<div><a href="starships.html" style="font-weight: bold; text-decoration: underline; "> Vaisseaux</a></div>
 			<div><a href="vehicles.html"> Véhicules</a></div>
 			<div><a href="film.html"> Films</a></div>
 		</nav>
 	</header>
 	<main><br />
+		<div style="overflow-x: auto;">
 		<table>
 		<thead>
 		   <tr>
@@ -44,8 +46,10 @@
 		</thead>
 		<tbody id=tbody></tbody>
 		</table>
+	</div>
 		<span id="btnNavigation"></span>
 	</main>
+	<noscript> Veuillez activer le JavaScript afin de visualiser les données!</noscript>
 </body>
 <footer>
 	<p> © Développé par : Alexandre, Erwin, Nicolas & Laure </p>

@@ -1,6 +1,5 @@
 {
-  "COMMENT":"http://comicvine.gamespot.com/api/origins/?api_key=616c419848212c88c749dc5732598698c2468ff8&format=json";
-   "error": "OK",
+  "error": "OK",
    "limit": 100,
    "offset": 0,
    "number_of_page_results": 10,

@@ -23,17 +23,26 @@
 }
 
 .accueil_background {
-  background-image:url("im.jpg");
+  background-image: #FFE4C4;
   background-position: center center;
-  background-attachment: @base_fixed;
-  background-size: @base_cover;
 
+  p{
+    text-align: center;
+  }
+
+  .lien a {
+    color: violet;
+    font-weight: bold;
+    position: relative;
+    right: -46%;
+  }
 }
 
 .background_star_wars{
   background-image:url("background_star_wars.jpg");
 
   table{
+    overflow: scroll;
     color: #FFEDE5;
     font-weight: bold;
     border-collapse: @base_collapse;
@@ -53,7 +62,6 @@
       font-weight :bold;
     }
   }
-
   footer {
     color: white;
   }
@@ -78,19 +86,19 @@ noscript{
   }
 }
 
+.comics_background{
+background-color: white;
+  h2 {
+    text-align: center;
+  }
+}
+
 nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
-}
-
-.comics_background{
-background-color: white;
-  h2 {
-    text-align: center;
-  }
 }
 
 div a {
@@ -172,9 +180,8 @@ td, th {
 }
 
 footer {
-  position: fixed;
+  position:fixed;
   bottom:0;
-  text-align: left;
 }
 
 .image-resize{

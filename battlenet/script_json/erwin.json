@@ -1,0 +1,194 @@
+{
+  "battleTag": "ErwinCD1#2753",
+  "paragonLevel": 243,
+  "paragonLevelHardcore": 0,
+  "paragonLevelSeason": 0,
+  "paragonLevelSeasonHardcore": 0,
+  "guildName": "",
+  "heroes": [
+    {
+      "id": 36241750,
+      "name": "TheRedPunish",
+      "class": "wizard",
+      "gender": 0,
+      "level": 70,
+      "kills": {
+        "elites": 3050
+      },
+      "paragonLevel": 243,
+      "hardcore": false,
+      "seasonal": false,
+      "dead": false,
+      "last-updated": 1450788452
+    },
+    {
+      "id": 53114583,
+      "name": "MasterDark",
+      "class": "monk",
+      "gender": 0,
+      "level": 70,
+      "kills": {
+        "elites": 2410
+      },
+      "paragonLevel": 243,
+      "hardcore": false,
+      "seasonal": false,
+      "dead": false,
+      "last-updated": 1479327529
+    },
+    {
+      "id": 57262821,
+      "name": "GunDaBad",
+      "class": "demon-hunter",
+      "gender": 0,
+      "level": 70,
+      "kills": {
+        "elites": 1017
+      },
+      "paragonLevel": 243,
+      "hardcore": false,
+      "seasonal": false,
+      "dead": false,
+      "last-updated": 1433268762
+    },
+    {
+      "id": 70879812,
+      "name": "Inferno",
+      "class": "crusader",
+      "gender": 0,
+      "level": 70,
+      "kills": {
+        "elites": 777
+      },
+      "paragonLevel": 243,
+      "hardcore": false,
+      "seasonal": false,
+      "dead": false,
+      "last-updated": 1479329470
+    }
+  ],
+  "lastHeroPlayed": 70879812,
+  "lastUpdated": 1479329470,
+  "kills": {
+    "monsters": 117429,
+    "elites": 7254,
+    "hardcoreMonsters": 0
+  },
+  "highestHardcoreLevel": 0,
+  "timePlayed": {
+    "barbarian": 0,
+    "crusader": 0.253,
+    "demon-hunter": 0.334,
+    "monk": 0.601,
+    "witch-doctor": 0,
+    "wizard": 1
+  },
+  "progression": {
+    "act1": true,
+    "act2": true,
+    "act3": true,
+    "act4": true,
+    "act5": true
+  },
+  "fallenHeroes": [],
+  "blacksmith": {
+    "slug": "blacksmith",
+    "level": 12,
+    "stepCurrent": 0,
+    "stepMax": 1
+  },
+  "jeweler": {
+    "slug": "jeweler",
+    "level": 12,
+    "stepCurrent": 0,
+    "stepMax": 1
+  },
+  "mystic": {
+    "slug": "mystic",
+    "level": 12,
+    "stepCurrent": 0,
+    "stepMax": 1
+  },
+  "blacksmithHardcore": {
+    "slug": "blacksmith",
+    "level": 0,
+    "stepCurrent": 0,
+    "stepMax": 1
+  },
+  "jewelerHardcore": {
+    "slug": "jeweler",
+    "level": 0,
+    "stepCurrent": 0,
+    "stepMax": 1
+  },
+  "mysticHardcore": {
+    "slug": "mystic",
+    "level": 0,
+    "stepCurrent": 0,
+    "stepMax": 1
+  },
+  "blacksmithSeason": {
+    "slug": "blacksmith",
+    "level": 0,
+    "stepCurrent": 0,
+    "stepMax": 1
+  },
+  "jewelerSeason": {
+    "slug": "jeweler",
+    "level": 0,
+    "stepCurrent": 0,
+    "stepMax": 1
+  },
+  "mysticSeason": {
+    "slug": "mystic",
+    "level": 0,
+    "stepCurrent": 0,
+    "stepMax": 1
+  },
+  "blacksmithSeasonHardcore": {
+    "slug": "blacksmith",
+    "level": 0,
+    "stepCurrent": 0,
+    "stepMax": 1
+  },
+  "jewelerSeasonHardcore": {
+    "slug": "jeweler",
+    "level": 0,
+    "stepCurrent": 0,
+    "stepMax": 1
+  },
+  "mysticSeasonHardcore": {
+    "slug": "mystic",
+    "level": 0,
+    "stepCurrent": 0,
+    "stepMax": 1
+  },
+  "seasonalProfiles": {
+    "season0": {
+      "seasonId": 0,
+      "paragonLevel": 243,
+      "paragonLevelHardcore": 0,
+      "kills": {
+        "monsters": 117429,
+        "elites": 7254,
+        "hardcoreMonsters": 0
+      },
+      "timePlayed": {
+        "barbarian": 0,
+        "crusader": 0.253,
+        "demon-hunter": 0.334,
+        "monk": 0.601,
+        "witch-doctor": 0,
+        "wizard": 1
+      },
+      "highestHardcoreLevel": 0,
+      "progression": {
+        "act1": true,
+        "act2": true,
+        "act3": true,
+        "act4": true,
+        "act5": true
+      }
+    }
+  }
+}

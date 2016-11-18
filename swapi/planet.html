@@ -8,24 +8,24 @@
 	<script type="text/javascript" src="../script_js/jquery-3.1.1.js"></script>
 	<script type="text/javascript" src="script_js/planet.js"></script>
 </head>
-
-<body class="planete_background">
+<body class="background_star_wars">
 	<div id="top">
 			<a href="../api.html"><img src="../images/api.png" class="image-resize"></a>
 			<h1>Listes des planètes</h1>
 			<img src="../images/logo.png"class="logo-resize">
 	</div>
-
 	<header>
 		<nav>
-			<div><a href="../api.html"> Accueil</a></div>
-			<div><a href="species.html"> Races</a></div>
-			<div><a href="starships.html"> Vaisseaux</a></div>
-			<div><a href="vehicles.html"> Véhicules</a></div>
-			<div><a href="film.html"> Films</a></div>
+			<div><a href="../index.html"> Accueil</a></div>
+		<div><a href="species.html"> Races</a></div>
+		<div><a href="planet.html" style="font-weight: bold; text-decoration: underline; "> Planètes</a></div>
+		<div><a href="starships.html"> Vaisseaux</a></div>
+		<div><a href="vehicles.html"> Véhicules</a></div>
+		<div><a href="film.html"> Films</a></div>
 		</nav>
 	</header>
-	<main><br />
+	<main>
+		<div style="overflow-x: auto;">
 		<table>
 		<thead>
 		   <tr>
@@ -42,8 +42,10 @@
 		</thead>
 		<tbody id=tbody></tbody>
 		</table>
-		<span id="btnNavigation"></span>
+	</div>
+</br><span id="btnNavigation"></span>
 	</main>
+	<noscript> Veuillez activer le JavaScript afin de visualiser les données!</noscript>
 </body>
 <footer>
 	<p> © Développé par : Alexandre, Erwin, Nicolas & Laure </p>
